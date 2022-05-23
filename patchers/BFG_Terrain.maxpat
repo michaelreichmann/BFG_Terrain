@@ -16939,7 +16939,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 387.0, 160.5, 83.0, 39.0 ],
+					"patching_rect" : [ 392.0, 164.5, 83.0, 39.0 ],
 					"text" : "2. Start Audio"
 				}
 
@@ -16964,7 +16964,7 @@
 					"maxclass" : "ezdac~",
 					"numinlets" : 2,
 					"numoutlets" : 0,
-					"patching_rect" : [ 387.0, 205.0, 45.0, 45.0 ]
+					"patching_rect" : [ 392.0, 209.0, 45.0, 45.0 ]
 				}
 
 			}
@@ -33888,7 +33888,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 254.0, 105.0, 119.0, 20.0 ],
-									"presentation_linecount" : 4,
 									"text" : "mixing the two BFGs"
 								}
 
